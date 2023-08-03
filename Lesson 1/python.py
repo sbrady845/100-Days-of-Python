@@ -1,0 +1,1 @@
+print("Diablo 4")
